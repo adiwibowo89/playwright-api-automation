@@ -1,0 +1,22 @@
+{
+  "name": "playwright-api-automation",
+  "version": "1.0.0",
+  "description": "Plawright API Demo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adiwibowo89/playwright-api-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adiwibowo89/playwright-api-automation/issues"
+  },
+  "homepage": "https://github.com/adiwibowo89/playwright-api-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.30"
+  }
+}
